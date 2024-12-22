@@ -48,3 +48,4 @@ This project is bootstrapped with [Create React App](https://github.com/facebook
 - **Troubleshooting**: If you encounter issues with the build, refer to this troubleshooting guide [here](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify).
 
 This readme provides a quick overview of the Visual Merchandising React Application and helps developers get started effortlessly.
+
